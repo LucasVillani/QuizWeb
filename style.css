@@ -1,0 +1,74 @@
+.perguntas {
+	border:1px solid;
+	padding: 10px;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    width: 500px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF8000;
+
+
+}
+
+#quadro {
+
+	border:1px solid;
+	padding: 10px;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    width: 500px;
+    height: 180px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #FF8000;
+    text-align: center;
+
+
+}
+
+#resultado {
+
+
+
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    width: 500px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF8000;
+}
+
+
+.recado {
+    text-align:center;
+	border:1px solid;
+	padding: 10px;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+    width: 500px;
+    height: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: red;
+}
+
+
+
+* {
+	font-family: Bree Serif, serif;
+}
+
+
+
+#botao {
+
+	margin-left: 46%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
